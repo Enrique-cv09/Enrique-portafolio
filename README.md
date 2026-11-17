@@ -37,9 +37,3 @@ Soy desarrollador full-stack y freelancer con experiencia en el desarrollo de so
 3. **Custom Digital Invitations & Event Management System**
    * Sistema web integral para eventos que incluye generación de **pases con códigos QR** y un módulo de **escaneo en tiempo real** para control de acceso de invitados.
    * Funcionalidades multimedia avanzadas: **subida de fotografías en vivo** por parte de los asistentes y soporte para **transmisión en directo (streaming)** dentro de la misma plataforma.
-
----
-
-## 📊 Estadísticas y Actividad
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enrique-cv09&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
