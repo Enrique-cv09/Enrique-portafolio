@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@variant dark (&:where(.dark, .dark *));
+
+body {
+  background-color: #f1f5f9; /* Un gris perla muy sutil (slate-100) que hace que las tarjetas blancas respiren */
+  color: #0f172a;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.dark body {
+  background-color: #0a0a0c;
+  color: #f3f4f6;
+}
